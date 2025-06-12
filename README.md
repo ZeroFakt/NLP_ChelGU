@@ -1,3 +1,3 @@
-Домашние задания
+Ссылка на домашнее задание №1:
 
-№1:https://github.com/ZeroFakt/NLP_ChelGU/tree/hw_1
+https://drive.google.com/file/d/1X6-EI39w5LkucaiHL5oYpHD_UJdpbvue/view?usp=sharing
