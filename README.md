@@ -1,3 +1,3 @@
-Ссылка на домашнее задание №1:
+## Ссылка на домашнее задание №2
 
-https://drive.google.com/file/d/1X6-EI39w5LkucaiHL5oYpHD_UJdpbvue/view?usp=sharing
+[Открыть в Google Colab](https://drive.google.com/file/d/1X6-EI39w5LkucaiHL5oYpHD_UJdpbvue/view?usp=sharing)
